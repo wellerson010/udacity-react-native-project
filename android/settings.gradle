@@ -1,0 +1,3 @@
+rootProject.name = 'Udacifit'
+
+include ':app'
